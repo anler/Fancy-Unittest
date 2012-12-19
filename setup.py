@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 import fancyunittest
 
 try:
-    description = open('README').read()
+    description = open('README.md').read()
 except:
     description = __doc__
 
@@ -20,7 +20,7 @@ setup(name='fancyunittest',
       license='New BSD License',
       author='Anler',
       author_email='anler86@gmail.com',
-      url='',
+      url='https://github.com/ikame/Fancy-Unittest',
       classifiers=[
           'Development Status :: 4 - Beta',
           'Intended Audience :: Developers',
