@@ -21,3 +21,9 @@ Installation
 ------------
 
     python setup.py install
+
+
+Screenshot
+----------
+
+![Example output](http://f.cl.ly/items/351u063p2N2H1L2g0m42/Screen%20Shot%202012-12-19%20at%207.02.51%20PM.png)
